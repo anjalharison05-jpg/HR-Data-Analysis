@@ -1,37 +1,25 @@
 # HR-Data-Analysis
-HR Data Analysis Project
-📌 Project Overview
+
+Project Overview:
 This project focuses on HR analytics to gain actionable insights into various aspects of the employee lifecycle—right from applications and recruitment, to employee performance, workforce distribution, and training programs. Using interactive dashboards, we analyzed applicant data, employee demographics, job functions, performance ratings, and training outcomes.
 The dashboards help HR teams and management in making data-driven decisions to optimize recruitment, workforce planning, employee engagement, and training investments.
 
-🎯 Objectives
+Objectives:
 
 1)Recruitment Analysis
 
-Understand application trends across gender, experience, education, age, and geography.
-
-Track applicant status (applied, in review, interviewing, offered, rejected).
-
-Identify job titles and locations with the highest applicant interest.
+  Understand application trends across gender, experience, education, age, and geography, Track applicant status (applied, in review, interviewing, offered, rejected), Identify job titles and locations with the highest applicant interest.
 
 2)Employee Analysis
 
-Examine employee distribution by division, department, pay zone, and job functions.
-
-Track employment types (full-time, contract, part-time) and classification trends.
-
-Analyze performance scores, ratings, and employee status (active, terminated, leave of absence, etc.).
+  Examine employee distribution by division, department, pay zone, and job functions, Track employment types (full-time, contract, part-time) and classification trends, Analyze performance scores, ratings, and employee status (active, terminated, leave of absence, etc.).
 
 3)Training Analysis
 
-Measure training investments (costs and duration) by trainer and program.
-
-Assess training program effectiveness through completion and pass/fail outcomes.
-
-Compare internal vs. external trainers’ efficiency and contribution.
+  Measure training investments (costs and duration) by trainer and program, Assess training program effectiveness through completion and pass/fail outcomes, Compare internal vs. external trainers’ efficiency and contribution.
 
 
-📊 Key Insights from Dashboards
+Key Insights from Dashboards:
 
 1. Recruitment Dashboard
 
